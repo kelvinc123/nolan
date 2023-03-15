@@ -1,0 +1,14 @@
+Flask-JWT-Extended
+Flask-RESTful
+Flask-SQLAlchemy
+pandas
+numpy
+torch
+torchvision
+matplotlib
+seaborn
+docplex
+pyomo
+scipy
+pymongo
+ipykernel
