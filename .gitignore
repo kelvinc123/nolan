@@ -1,2 +1,8 @@
 # venv
 venv
+
+# pycache
+__pycache__
+
+# dataset directory
+dataset
