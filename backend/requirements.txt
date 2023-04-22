@@ -2,6 +2,7 @@ Flask-JWT-Extended
 Flask-RESTful
 Flask-SQLAlchemy
 Flask-PyMongo
+Flask-CORS
 pandas
 numpy
 torch
@@ -16,3 +17,5 @@ ipykernel
 python-dotenv
 Werkzeug~=2.0.0
 geopy
+bcrypt
+googlemaps
